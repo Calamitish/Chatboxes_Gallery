@@ -27,6 +27,6 @@ Please do not alter, re-use or re-upload any of the assets unless I give you dir
 # Contact
 
 In order of preference:
-- Discord: Calamitish#2931
+- Discord: calamitish
 - [twitter](https://twitter.com/Calamitishy)
 - [E-mail](mailto:calamitish@gmail.com)
