@@ -7,5 +7,5 @@ Please do not alter, re-use or re-upload any of the assets unless I give you dir
 # Contact
 
 In order of preference:
-- Discord: hiddenforbiddenholyground
+- Discord: twilightbracelet
 - [E-mail](mailto:calamitish@gmail.com)
