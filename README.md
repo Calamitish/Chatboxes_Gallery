@@ -14,4 +14,5 @@ Please do not alter, re-use or re-upload any of the assets here unless I give yo
 
 In order of preference:
 - Discord: twilightbracelet
+- Twitter: [@twlightbracelet] (https://twitter.com/twlightbracelet)
 - [E-mail](mailto:calamitish@gmail.com)
