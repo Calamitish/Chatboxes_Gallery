@@ -14,6 +14,6 @@ Please do not alter, re-use or re-upload any of the assets here unless I give yo
 
 In order of preference:
 - Discord: twilightbracelet
-- Bsky: [twilightbracelet] (https://bsky.app/profile/twilightbracelet.bsky.social)
+- Bsky: [twilightbracelet] (https://bsky.app/profile/twilightbracelet.atspace.cc)
 - Twitter: [@twlightbracelet] (https://twitter.com/twlightbracelet)
 - [E-mail](mailto:calamitish@gmail.com)
