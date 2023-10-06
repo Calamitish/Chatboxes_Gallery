@@ -16,4 +16,4 @@ In order of preference:
 - Discord: twilightbracelet
 - Bsky: [twilightbracelet] (https://bsky.app/profile/twilightbracelet.atspace.cc)
 - Twitter: [@twlightbracelet] (https://twitter.com/twlightbracelet)
-- [E-mail](mailto:calamitish@gmail.com)
+- [E-mail](mailto:twilightbracelet@calamitish.atspace.cc)
