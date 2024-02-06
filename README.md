@@ -1,19 +1,28 @@
-# The end of Chatgelion
+# Chatboxes
 
-Hi, I'm Calamitish, ex-vtuber and fulltime software engineer.  
-If you're reading this, we've probably crossed paths at some point, and you might have a custom Twitch chat made by me.  
-I'm no longer making any custom chats or other Twitch and streaming related widgets.  
-What you see here are remnants of something that used to be.
+Hi!  
+I'm Calamitish, in my spare time I make Chatboxes for Twitch, Discord and Picarto.
 
-That said, I'll make sure that everything still here keeps working as is.  
-My contact is below, if there is ever an issue, feel free to contact me.
+Welcome to my gallery, here you can find most of my completed works :D  
+Do mind that animations and transparency will not work in these previews.
 
-Please do not alter, re-use or re-upload any of the assets here unless I give you direct permission.
+# If you've previously received a chatbox
+
+Lucky you!
+
+If at any point you find a bug or issue, feel free to contact me and I'll fix them ASAP.  
+I'll also generally update all chatboxes if I happen to find any breaking bugs myself.
+
+# If you haven't
+
+I'm permanently **non-commissionable**.  
+Every chatbox here is a passion project of mine and one-of-a-kind.  
+Please do not alter, re-use or re-upload any of the assets unless I give you direct permission.
 
 # Contact
 
 In order of preference:
-- Discord: twilightbracelet
-- Bsky: [twilightbracelet] (https://bsky.app/profile/twilightbracelet.atspace.cc)
-- Twitter: [@twlightbracelet] (https://twitter.com/twlightbracelet)
-- [E-mail](mailto:twilightbracelet@calamitish.atspace.cc)
+- Discord: calamitish
+- [E-mail](mailto:calamitish@calamitish.atspace.cc)
+- Twitter: [@calamitishy] (https://twitter.com/calamitishy)
+- Bsky: [calamitish] (https://bsky.app/profile/calamitish.atspace.cc)
